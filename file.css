@@ -1,0 +1,48 @@
+h1{
+  color: red;
+  cursor: pointer;
+  text-align: center;
+
+}
+.hk{
+  margin: 0 5px;
+  float: left;
+  font-size: 35px;
+
+}
+.on{
+  margin-left: 250px;
+}
+.btn input{
+  padding: 50px;
+  border-radius: 5px;
+  cursor: pointer;
+
+}
+.btn input:hover{
+  background-color: blue;
+}
+.shows{
+  font-size: 75px;
+  margin: 50px 0;
+  text-align: center;
+}
+.slide{
+  display: inline-block;
+  font-size: black;
+  padding: 20px 20px;
+  background-color: yellow;
+  cursor: pointer;
+
+
+}
+.prev{
+  display: none;
+  
+}
+.show{
+  display: none;
+}
+.active{
+  display: block;
+}
